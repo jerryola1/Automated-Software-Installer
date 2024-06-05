@@ -1,11 +1,11 @@
 # define the list of applications and their download URLs
 $applications = @{
-    "Google Chrome" = "https://dl.google.com/chrome/install/ChromeSetup.exe"; # URL for Google Chrome installer
-    "Adobe Reader" = "http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/2000920068/AcroRdrDC1900820071_en_US.exe"; # URL for Adobe Reader installer
-    "Microsoft Office" = "https://go.microsoft.com/fwlink/p/?linkid=2009112"; # URL for Microsoft Office installer
-    "7-Zip" = "https://www.7-zip.org/a/7z1900-x64.exe"; # URL for 7-Zip installer
-    "VLC Media Player" = "https://get.videolan.org/vlc/3.0.11.1/win64/vlc-3.0.11.1-win64.exe"; # URL for VLC Media Player installer
-    "Notepad++" = "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.2/npp.8.1.9.2.Installer.x64.exe" # URL for Notepad++ installer
+    "Google Chrome" = "https://dl.google.com/chrome/install/ChromeSetup.exe"; 
+    "Adobe Reader" = "http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/2000920068/AcroRdrDC1900820071_en_US.exe"; 
+    "Microsoft Office" = "https://go.microsoft.com/fwlink/p/?linkid=2009112"; 
+    "7-Zip" = "https://www.7-zip.org/a/7z1900-x64.exe";
+    "VLC Media Player" = "https://get.videolan.org/vlc/3.0.11.1/win64/vlc-3.0.11.1-win64.exe"; 
+    "Notepad++" = "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.2/npp.8.1.9.2.Installer.x64.exe" 
 }
 
 # create a directory to store installers if it doesn't exist
